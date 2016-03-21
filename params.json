@@ -1,0 +1,6 @@
+{
+  "name": "Emscripten",
+  "tagline": "Emscripten: An LLVM-to-JavaScript Compiler",
+  "body": "![emscripten logo](media/switch_logo.png)\r\n\r\nEmscripten is an [LLVM](https://en.wikipedia.org/wiki/LLVM)-to-JavaScript compiler. It takes LLVM bitcode - which can be generated\r\nfrom C/C++, using `llvm-gcc` (DragonEgg) or `clang`, or any other language that can be\r\nconverted into LLVM - and compiles that into JavaScript, which can be run on the web (or\r\nanywhere else JavaScript can run).\r\n\r\nLinks to **demos**, **tutorial**, **FAQ**, etc: <https://github.com/kripken/emscripten/wiki>\r\n\r\nMain project page: <http://emscripten.org>\r\n\r\nLicense\r\n-------\r\n\r\nEmscripten is available under 2 licenses, the MIT license and the\r\nUniversity of Illinois/NCSA Open Source License.\r\n\r\nBoth are permissive open source licenses, with little if any\r\npractical difference between them.\r\n\r\nThe reason for offering both is that (1) the MIT license is\r\nwell-known, while (2) the University of Illinois/NCSA Open Source\r\nLicense allows Emscripten's code to be integrated upstream into\r\nLLVM, which uses that license, should the opportunity arise.\r\n\r\nSee `LICENSE` for the full content of the licenses.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
